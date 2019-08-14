@@ -8,28 +8,27 @@
             "pours",
             "passes"
         ],
-        "flavor": [
-            "hazelnut",
-            "caramel",
-            "milk",
-            "dark"
-        ],
         "size": [
             "small",
             "medium-sized",
             "large",
             "mug of",
             "cup of"
-        ],
         "adj": [
-          "velvety",
-          "creamy"
-          ],
-          "topping": [
+            "velvety",
+            "creamy"
+        ],
+        "flavor": [
+            "hazelnut",
+            "caramel",
+            "milk",
+            "dark"
+        ],
+        "topping": [
               "marshmellows",
               "cream",
               "marshmellows and cream",
               "a big flake"
-          ]
+         ]
      }
 }
